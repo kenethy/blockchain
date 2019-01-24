@@ -28,7 +28,7 @@ public class Block {
 	/**
 	 * calculate hash new block
 	 * 
-	 * @return new hash
+	 * @return new block hash
 	 */
 	public String calculateHash() {
 		String calculatedhash = StringUtil

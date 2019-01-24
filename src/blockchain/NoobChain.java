@@ -10,8 +10,27 @@ public class NoobChain {
 
 	public static void main(String[] args) {
 
+		/**
+		 *  TODO 
+		 *  Create new class for return transactions
+		 *  Create reason book
+		 *  
+		 *  Transaction
+		 *  Attributes
+		 *  1 - Who do the transaction
+		 *  2 - Value of the transaction
+		 *  3 - Who receive values
+		 *  
+		 *  Applies functions to...
+		 *  Return 
+		 *  book complete
+		 *  transaction to index of insertion  
+		 *  
+		 */
+		 
+		
 		String blockchainJson;
-		// add our blocks to the blockchain ArrayList:
+		// add our blocks to the blockchain ArrayList
 		blockchain.add(new Block("Hi im the first block", "0"));
 		System.out.println("Trying to Mine block 1... ");
 		blockchain.get(0).mineBlock(difficulty);
