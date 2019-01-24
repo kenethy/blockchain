@@ -30,6 +30,7 @@ public class NoobChain {
 	}
 
 	/**
+	 * validation of the blockchain
 	 * 
 	 * @return
 	 */

@@ -2,6 +2,12 @@ package blockchain;
 
 import java.security.MessageDigest;
 
+/**
+ * Applies of SHA256 in hash of the block
+ * 
+ * @author Kenedy and Ikaro
+ *
+ */
 public class StringUtil {
 	// Applies Sha256 to a string and returns the result.
 	public static String applySha256(String input) {
@@ -10,7 +16,7 @@ public class StringUtil {
 
 			// Applies sha256 to our input,
 			byte[] hash = digest.digest(input.getBytes("UTF-8"));
-			StringBuffer hexString = new StringBuffer(); // This will contain hash as hexidecimal
+			StringBuffer hexString = new StringBuffer(); // This will contain hash as hexadecimal
 
 			for (int i = 0; i < hash.length; i++) {
 				String hex = Integer.toHexString(0xff & hash[i]);

@@ -12,6 +12,8 @@ public class Block {
 
 	// Block Constructor.
 	/**
+	 * create block, info add with data, previous hash, date transaction, hash
+	 * transaction
 	 * 
 	 * @param data
 	 * @param previousHash
@@ -24,19 +26,18 @@ public class Block {
 	}
 
 	/**
+	 * calculate hash new block
 	 * 
-	 * @return
+	 * @return new hash
 	 */
 	public String calculateHash() {
-		String calculatedhash = StringUtil.applySha256(
-				previousHash + 
-				Long.toString(timeStamp) + 
-				Integer.toString(nonce) + 
-				data);
+		String calculatedhash = StringUtil
+				.applySha256(previousHash + Long.toString(timeStamp) + Integer.toString(nonce) + data);
 		return calculatedhash;
 	}
-	
+
 	/**
+	 * include difficulty to determination and time of execution of the algorithm
 	 * 
 	 * @param difficulty
 	 */
