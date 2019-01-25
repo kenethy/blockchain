@@ -2,8 +2,8 @@
 Aplicação de Sistema de Transparência com Blockchain, uma ferramenta que atuará como exemplificação a disciplina de Segurança da Informação, com <b>tema</b> a seguir. 
 ### "Como blockchain pode ser utilizado para melhorar a segurança de sistemas de transparência de gastos públicos?"
 
-#### Sobre Blockchain<br>	
-##### Aprofundando: qual é a do blockchain? [https://tecnoblog.net/227293/como-funciona-blockchain-bitcoin/]
+#### Sobre Blockchain
+#### Aprofundando: qual é a do blockchain? [https://tecnoblog.net/227293/como-funciona-blockchain-bitcoin/]
 
 Antes de falar sobre a cadeia de blocos (blockchain, sacou?), temos que entender como funciona o hash. Agora que podemos encarar termos técnicos, posso dizer que o hash é uma função matemática que pega uma mensagem ou arquivo e gera um código com letras e números que representa os dados que você inseriu.
 
@@ -13,8 +13,7 @@ O hash vai assinar o conteúdo do bloco; caso qualquer informação seja alterada, 
 
 O blockchain é uma rede de negócios segura, na qual os participantes transferem itens de valor (ativos), por meio de um ledger (livro-razão) comum distribuído, do qual cada participante possui uma cópia, e cujo seu conteúdo está em constante sincronia com os outros. [André Salem, pesquisador do IBM Blockchain]
 
-##### Vantagens
-
+#### Vantagens
 Confiança, responsabilidade, transparência e segurança. São palavras-chave que atuam onde se trata sobre Blockchain.
 
 - <b>Ledger distribuído</b>: o livro-razão, sistema de registro das transações e blocos, é compartilhado por toda a rede e todos podem ver;
@@ -33,13 +32,13 @@ Como o blockchain elimina intermediários, as transações acontecem em tempo real,
 
 
 
-#### Procedimentos<br>
-Os órgãos responsáveis por cada fonte de informação encaminham seus dados para a CGU, que recebe, reúne e disponibiliza as informações na ferramenta. A periodicidade de envio dos dados depende do assunto tratado, assim como a periodicidade de atualização das informações no Portal. Saiba mais em Origem e Atualização dos Dados [http://www.portaltransparencia.gov.br/origem-dos-dados]).
+#### Procedimentos
+Os órgãos responsáveis por cada fonte de informação encaminham seus dados para a CGU, que recebe, reúne e disponibiliza as informações na ferramenta. A periodicidade de envio dos dados depende do assunto tratado, assim como a periodicidade de atualização das informações no Portal. Saiba mais em Origem e Atualização dos Dados<br> [http://www.portaltransparencia.gov.br/origem-dos-dados].
 
-#### Citações<br>
-“A nova rede da IBM pode possibilitar que um agricultor na Samoa [país da Oceania] faça uma transação com um comprador na Indonésia. O blockchain seria usado para registrar os termos do contrato, gerenciar a documentação do comércio, permitir que o agricultor forneça uma garantia, consiga letras de crédito e finalize a transação com pagamento imediato”, exemplificou a IBM quando apresentou o sistema de pagamentos internacionais. [https://tecnoblog.net/226096/ibm-rede-blockchain-pagamentos/]
+#### Citações
+“A nova rede da IBM pode possibilitar que um agricultor na Samoa [país da Oceania] faça uma transação com um comprador na Indonésia. O blockchain seria usado para registrar os termos do contrato, gerenciar a documentação do comércio, permitir que o agricultor forneça uma garantia, consiga letras de crédito e finalize a transação com pagamento imediato”, exemplificou a IBM quando apresentou o sistema de pagamentos internacionais.<br>[https://tecnoblog.net/226096/ibm-rede-blockchain-pagamentos/]
 
-#### Referências<br>
+#### Referências
 Portal da Transparência - MINISTÉRIO DA TRANSPARÊNCIA E CONTROLADORIA-GERAL DA UNIÃO<br>
 http://www.portaltransparencia.gov.br/
 
