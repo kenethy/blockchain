@@ -3,7 +3,7 @@ Aplicação de Sistema de Transparência com Blockchain, uma ferramenta que atuará 
 ### "Como blockchain pode ser utilizado para melhorar a segurança de sistemas de transparência de gastos públicos?"
 
 #### Sobre Blockchain
-#### Aprofundando: qual é a do blockchain? [https://tecnoblog.net/227293/como-funciona-blockchain-bitcoin/]
+<b>Aprofundando: qual é a do blockchain?</b> [https://tecnoblog.net/227293/como-funciona-blockchain-bitcoin/]
 
 Antes de falar sobre a cadeia de blocos (blockchain, sacou?), temos que entender como funciona o hash. Agora que podemos encarar termos técnicos, posso dizer que o hash é uma função matemática que pega uma mensagem ou arquivo e gera um código com letras e números que representa os dados que você inseriu.
 
@@ -39,36 +39,36 @@ Os órgãos responsáveis por cada fonte de informação encaminham seus dados para a
 “A nova rede da IBM pode possibilitar que um agricultor na Samoa [país da Oceania] faça uma transação com um comprador na Indonésia. O blockchain seria usado para registrar os termos do contrato, gerenciar a documentação do comércio, permitir que o agricultor forneça uma garantia, consiga letras de crédito e finalize a transação com pagamento imediato”, exemplificou a IBM quando apresentou o sistema de pagamentos internacionais.<br>[https://tecnoblog.net/226096/ibm-rede-blockchain-pagamentos/]
 
 #### Referências
-Portal da Transparência - MINISTÉRIO DA TRANSPARÊNCIA E CONTROLADORIA-GERAL DA UNIÃO<br>
+[1] Portal da Transparência - MINISTÉRIO DA TRANSPARÊNCIA E CONTROLADORIA-GERAL DA UNIÃO<br>
 http://www.portaltransparencia.gov.br/
 
-O que é e como funciona<br>
+[2] O que é e como funciona<br>
 http://www.portaltransparencia.gov.br/sobre/o-que-e-e-como-funciona
 
-Controle Social<br>
+[3] Controle Social<br>
 http://www.portaltransparencia.gov.br/pagina-interna/603399-controle-social
 
-O novo perfil da transparência nos gastos públicos<br>
+[4] O novo perfil da transparência nos gastos públicos<br>
 https://drvaldinar.jusbrasil.com.br/artigos/144893929/o-novo-perfil-da-transparencia-nos-gastos-publicos
 
-A transparência como mecanismo de controle dos gastos públicos<br>
+[5] A transparência como mecanismo de controle dos gastos públicos<br>
 http://www.conteudojuridico.com.br/artigo,a-transparencia-como-mecanismo-de-controle-dos-gastos-publicos,46652.html
 
-Novo Portal da Transparência ajuda cidadão a fiscalizar gastos públicos federais<br>
+[6] Novo Portal da Transparência ajuda cidadão a fiscalizar gastos públicos federais<br>
 http://www.cgu.gov.br/noticias/2018/06/novo-portal-da-transparencia-ajuda-cidadao-a-fiscalizar-gastos-publicos-federais
 
-Creating Your First Blockchain with Java<br>
+[7] Creating Your First Blockchain with Java<br>
 https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa<br>
 https://medium.com/programmers-blockchain/creating-your-first-blockchain-with-java-part-2-transactions-2cdac335e0ce
 
-Como funciona o Proof of Work na blockchain do Bitcoin<br>
+[8] Como funciona o Proof of Work na blockchain do Bitcoin<br>
 https://livecoins.com.br/proof-of-work-blockchain-bitcoin/
 
-Blockchain Implementation With Java Code<br>
+[9] Blockchain Implementation With Java Code<br>
 https://keyholesoftware.com/2018/04/10/blockchain-with-java/
 
-Entenda como blockchain aumenta a segurança das transações financeiras<br>
+[10] Entenda como blockchain aumenta a segurança das transações financeiras<br>
 https://blog.originalmy.com/entenda-como-blockchain-aumenta-a-seguranca-das-transacoes-financeiras/
 
-Por que o blockchain é a tecnologia chave do sistema financeiro?<br>
+[11] Por que o blockchain é a tecnologia chave do sistema financeiro?<br>
 https://computerworld.com.br/2017/09/08/por-que-o-blockchain-e-tecnologia-chave-do-sistema-financeiro/
