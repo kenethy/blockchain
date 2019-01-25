@@ -3,7 +3,7 @@ package blockchain;
 import java.util.ArrayList;
 import com.google.gson.GsonBuilder;
 
-public class NoobChain {
+public class MainTransaction {
 
 	public static Book book = new Book();
 	public static int difficulty = 6;
