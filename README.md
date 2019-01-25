@@ -26,19 +26,16 @@ Confiança, responsabilidade, transparência e segurança. São palavras-chave que a
 
 Como o blockchain elimina intermediários, as transações acontecem em tempo real, com menos custos e sem perder em segurança, já que elas podem ser verificáveis e auditáveis. O risco de fraudes é reduzido por meio de contratos inteligentes.
 
+### Melhorias
 
 
-#### Melhorias
-
-
-
-#### Procedimentos
+### Procedimentos
 Os órgãos responsáveis por cada fonte de informação encaminham seus dados para a CGU, que recebe, reúne e disponibiliza as informações na ferramenta. A periodicidade de envio dos dados depende do assunto tratado, assim como a periodicidade de atualização das informações no Portal. Saiba mais em Origem e Atualização dos Dados<br> [http://www.portaltransparencia.gov.br/origem-dos-dados].
 
-#### Citações
+### Citações
 “A nova rede da IBM pode possibilitar que um agricultor na Samoa [país da Oceania] faça uma transação com um comprador na Indonésia. O blockchain seria usado para registrar os termos do contrato, gerenciar a documentação do comércio, permitir que o agricultor forneça uma garantia, consiga letras de crédito e finalize a transação com pagamento imediato”, exemplificou a IBM quando apresentou o sistema de pagamentos internacionais.<br>[https://tecnoblog.net/226096/ibm-rede-blockchain-pagamentos/]
 
-#### Referências
+### Referências
 [1] Portal da Transparência - MINISTÉRIO DA TRANSPARÊNCIA E CONTROLADORIA-GERAL DA UNIÃO<br>
 http://www.portaltransparencia.gov.br/
 
