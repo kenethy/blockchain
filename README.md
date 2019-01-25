@@ -1,5 +1,5 @@
-# Aplicação Blockchain Sistema de Gastos Públicos
-Aplicação de Sistema de Transparência com Blockchain, uma ferramenta que atuará como exemplificação a disciplina de Segurança da Informação, com <b>tema</b> a seguir. 
+# Aplicação Blockchain para Sistema de Gastos Públicos
+Ferramenta que para exemplificação do funcionamento de blockchain, projeto para a disciplina de Segurança da Informação, com <b>tema</b> a seguir. 
 ## "Como blockchain pode ser utilizado para melhorar a segurança de sistemas de transparência de gastos públicos?"
 
 ### Sobre Blockchain
