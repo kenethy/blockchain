@@ -2,11 +2,17 @@ package blockchain;
 
 import java.util.Date;
 
+/**
+ * Blockchain with all transaction information
+ * 
+ * @author Kenedy and Ikaro
+ *
+ */
 public class Block {
 
 	public String hash;
 	public String previousHash;
-	private String data;
+	public Data data;
 	private long timeStamp;
 	private int nonce;
 
@@ -18,7 +24,7 @@ public class Block {
 	 * @param data
 	 * @param previousHash
 	 */
-	public Block(String data, String previousHash) {
+	public Block(Data data, String previousHash) {
 		this.data = data;
 		this.previousHash = previousHash;
 		this.timeStamp = new Date().getTime();
@@ -49,4 +55,5 @@ public class Block {
 		}
 		System.out.println("Block Mined!!! : " + hash);
 	}
+
 }
