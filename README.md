@@ -44,8 +44,7 @@ Os órgãos responsáveis por cada fonte de informação encaminham seus dados para a
 
 #### Referências
 
-Portal da Transparência - MINISTÉRIO DA TRANSPARÊNCIA E CONTROLADORIA-GERAL DA UNIÃO
-
+Portal da Transparência - MINISTÉRIO DA TRANSPARÊNCIA E CONTROLADORIA-GERAL DA UNIÃO<br>
 http://www.portaltransparencia.gov.br/
 
 O que é e como funciona
