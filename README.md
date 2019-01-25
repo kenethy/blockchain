@@ -1,8 +1,8 @@
 # Aplicação Blockchain Sistema de Gastos Públicos
 Aplicação de Sistema de Transparência com Blockchain, uma ferramenta que atuará como exemplificação a disciplina de Segurança da Informação, com <b>tema</b> a seguir. 
-### "Como blockchain pode ser utilizado para melhorar a segurança de sistemas de transparência de gastos públicos?"
+## "Como blockchain pode ser utilizado para melhorar a segurança de sistemas de transparência de gastos públicos?"
 
-#### Sobre Blockchain
+### Sobre Blockchain
 <b>Aprofundando: qual é a do blockchain?</b> [https://tecnoblog.net/227293/como-funciona-blockchain-bitcoin/]
 
 Antes de falar sobre a cadeia de blocos (blockchain, sacou?), temos que entender como funciona o hash. Agora que podemos encarar termos técnicos, posso dizer que o hash é uma função matemática que pega uma mensagem ou arquivo e gera um código com letras e números que representa os dados que você inseriu.
