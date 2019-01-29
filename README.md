@@ -26,9 +26,6 @@ Confiança, responsabilidade, transparência e segurança. São palavras-chave que a
 
 Como o blockchain elimina intermediários, as transações acontecem em tempo real, com menos custos e sem perder em segurança, já que elas podem ser verificáveis e auditáveis. O risco de fraudes é reduzido por meio de contratos inteligentes.
 
-### Melhorias
-
-
 ### Procedimentos
 Os órgãos responsáveis por cada fonte de informação encaminham seus dados para a CGU, que recebe, reúne e disponibiliza as informações na ferramenta. A periodicidade de envio dos dados depende do assunto tratado, assim como a periodicidade de atualização das informações no Portal. Saiba mais em Origem e Atualização dos Dados<br> [http://www.portaltransparencia.gov.br/origem-dos-dados].
 
@@ -54,18 +51,17 @@ http://www.conteudojuridico.com.br/artigo,a-transparencia-como-mecanismo-de-cont
 [6] Novo Portal da Transparência ajuda cidadão a fiscalizar gastos públicos federais<br>
 http://www.cgu.gov.br/noticias/2018/06/novo-portal-da-transparencia-ajuda-cidadao-a-fiscalizar-gastos-publicos-federais
 
-[7] Creating Your First Blockchain with Java<br>
-https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa<br>
-https://medium.com/programmers-blockchain/creating-your-first-blockchain-with-java-part-2-transactions-2cdac335e0ce
-
-[8] Como funciona o Proof of Work na blockchain do Bitcoin<br>
+[7] Como funciona o Proof of Work na blockchain do Bitcoin<br>
 https://livecoins.com.br/proof-of-work-blockchain-bitcoin/
 
-[9] Blockchain Implementation With Java Code<br>
+[8] Blockchain Implementation With Java Code<br>
 https://keyholesoftware.com/2018/04/10/blockchain-with-java/
 
-[10] Entenda como blockchain aumenta a segurança das transações financeiras<br>
+[9] Entenda como blockchain aumenta a segurança das transações financeiras<br>
 https://blog.originalmy.com/entenda-como-blockchain-aumenta-a-seguranca-das-transacoes-financeiras/
 
-[11] Por que o blockchain é a tecnologia chave do sistema financeiro?<br>
+[10] Por que o blockchain é a tecnologia chave do sistema financeiro?<br>
 https://computerworld.com.br/2017/09/08/por-que-o-blockchain-e-tecnologia-chave-do-sistema-financeiro/
+
+[11] Blockchain<br>
+https://pt.wikipedia.org/wiki/Blockchain

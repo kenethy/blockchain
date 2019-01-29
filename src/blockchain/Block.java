@@ -38,7 +38,11 @@ public class Block {
 	 */
 	public String calculateHash() {
 		String calculatedhash = StringUtil
-				.applySha256(previousHash + Long.toString(timeStamp) + Integer.toString(nonce) + data);
+				.applySha256(
+						previousHash 
+						+ Long.toString(timeStamp) 
+						+ Integer.toString(nonce) 
+						+ data);
 		return calculatedhash;
 	}
 
